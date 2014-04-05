@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[BooksViewController tableView:cellForRowAtIndexPath:]:BooksViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "menuSelect">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
